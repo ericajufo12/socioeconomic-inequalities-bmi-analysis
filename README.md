@@ -314,7 +314,7 @@ The full report, including the literature review, methodology, detailed statisti
 
 ## Author
 
-**Uche Dumzo-Ajufo**
+**Eric Ajufo**
 
 MSc Data Science | BEng Biomedical Engineering (Hons)
 
